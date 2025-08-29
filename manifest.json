@@ -1,0 +1,8 @@
+{
+  "files": [
+    { "path": "Executables/app.exe", "destination": "C:\\NOVOVENT\\app.exe" },
+    { "path": "Config/settings.xml", "destination": "C:\\NOVOVENT\\config\\settings.xml" },
+    { "path": "Resources/logo.png", "destination": "C:\\NOVOVENT\\assets\\logo.png" }
+  ]
+}
+
