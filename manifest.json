@@ -1,9 +1,10 @@
 {
   "files": [
-    { "path": "Executables/NOVOVENT FAN SELECTION 2026.exe", "destination": "C:\\NOVOVENT\\NOVOVENT FAN SELECTION 2026.exe" },
-    { "path": "Executables/NOVOVENT FAN SELECTION 2026.dll", "destination": "C:\\NOVOVENT\\NOVOVENT FAN SELECTION 2026.dll" }
+    { "path": "NOVOVENT FAN SELECTION 2026.exe", "destination": "{appdir}\\\\NOVOVENT FAN SELECTION 2026.exe" },
+    { "path": "NOVOVENT FAN SELECTION 2026.dll", "destination": "{appdir}\\\\NOVOVENT FAN SELECTION 2026.dll" }
   ]
 }
+
 
 
 
